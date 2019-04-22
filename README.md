@@ -8,7 +8,7 @@ Whene the target open's google,facebook,... or any site we directly rederect him
 this website's Security subdomains and we steal there cookies and you can use theme to
  open theme and hack theme
 This tool is only for education purpose Only :)
-# requerment
+# requirement
 PHP
 DNSSPOOF
 IPTABLES
