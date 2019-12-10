@@ -9,6 +9,9 @@ this website's Security subdomains and we steal there cookies and you can use th
  open theme and hack theme
 This tool is only for education purpose Only :)
 # requirement
+
 PHP
+
 create_ap   https://github.com/oblique/create_ap
-hostapd     ''' sudo apt install hostapd'''
+
+hostapd 
